@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavanKoyi
 - 👀 I’m interested in  Software Development
-- 🌱 I’m currently learning Cloud computing 
+- 🌱 I’m currently learning Cloud computing and enc=hancing my skills as a FullStack Developer.
 - 💞️ I’m looking to collaborate on a challenging role in an MNC
 - 📫 You can contact me @ my G-mail koyi.pavankumar1215@gmail.com
 
